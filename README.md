@@ -1,5 +1,5 @@
 ## Hey there!! 👋
-## I'm Shashank currently pursuing my engineering in Information Science from Jyothy Institute of Technology, Bengaluru
+## I'm currently pursuing my engineering in Information Science from Jyothy Institute of Technology, Bengaluru
 <!--### Glad to see you here! 🤩 &nbsp;-->
 [![HitCount](http://hits.dwyl.com/Shashank-Shivakumar/Shashank-Shivakumar.svg)](http://hits.dwyl.com/Shashank-Shivakumar/Shashank-Shivakumar)
 
