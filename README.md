@@ -1,8 +1,8 @@
 ## Hey there!! 👋
 ## I'm currently pursuing my engineering in Information Science from Jyothy Institute of Technology, Bengaluru
-<!--### Glad to see you here! 🤩 &nbsp;-->
+<!--### Glad to see you here! 🤩 &nbsp;
 [![HitCount](http://hits.dwyl.com/Shashank-Shivakumar/Shashank-Shivakumar.svg)](http://hits.dwyl.com/Shashank-Shivakumar/Shashank-Shivakumar)
-
+-->
 - 🔭 I’m currently working on ...PHP project 
 - 🌱 I’m currently learning ...NodeJs, ReactJs and Data Science
 - 🤔 I’m looking for help with ...Data Science
