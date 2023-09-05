@@ -1,12 +1,11 @@
 ## Hey there!! 👋
-## I have recently graduated from Jyothy Institute of Technology, Bengaluru where I pursued my engineering in Information Science and Engineering. 
+## I am pursuing a Master's Degree in Data Science at The George Washington University, Washington, DC. 
 <!--### Glad to see you here! 🤩 &nbsp;
 [![HitCount](http://hits.dwyl.com/Shashank-Shivakumar/Shashank-Shivakumar.svg)](http://hits.dwyl.com/Shashank-Shivakumar/Shashank-Shivakumar)-->
 
-- 🔭 I’m currently working on ...PHP project 
-- 🌱 I’m currently learning ...NodeJs, ReactJs and Data Science
-- 🤔 I’m looking for help with ...Data Science
-- 📫 How to reach me: ... shashankshivu007@gmail.com
+- 🔭 I’m currently working on ...Data Science project 
+- 🌱 I’m currently learning ...Data Science
+- 📫 How to reach me: ... shashankshivakumar09@gmail.com
 <!--
 - 💬 Ask me about ...
 
