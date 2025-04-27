@@ -90,10 +90,10 @@ My approach blends **technical rigor** with **business impact** — delivering s
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/shashankshivakumar09" target="_blank">
+  <a href="https://linkedin.com/in/shashank-shivu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
   </a>
-  <a href="https://github.com/shashankshivakumar09" target="_blank">
+  <a href="https://github.com/Shashank-Shivakumar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub Badge" />
   </a>
   <a href="mailto:shashankshivakumar09@gmail.com" target="_blank">
