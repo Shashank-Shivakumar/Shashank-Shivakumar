@@ -1,103 +1,97 @@
 <!-- 
-    README Template for Shashank Shivakumar
-    Author: ChatGPT
-    Description: Professional, dynamic GitHub portfolio showcasing data science, BI engineering, and AI/ML expertise.
+    README for Shashank Shivakumar
+    Unique, Animated, Professional — AI, BI, ML, Sales Analytics Specialist.
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=4AC7F5&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B,+I'm+Shashank+Shivakumar!;Data+Scientist+%7C+Business+Intelligence+Engineer;AI+%7C+ML+%7C+Big+Data+Explorer;Welcome+to+My+Coding+Journey!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=08E8DE&center=true&vCenter=true&repeat=true&width=900&lines=Hello%2C+I'm+Shashank+Shivakumar!;Data+Scientist+%7C+BI+Engineer+%7C+AI+Builder;Turning+Data+Into+Decisions+and+Growth." alt="Typing SVG" />
 </h1>
 
-<!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ChinmayDhama/ChinmayDhama/main/assets/hero_banner.gif" alt="Profile Banner" width="100%" />
+  <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" width="280" height="200" alt="Working Animation" />
 </p>
 
 ---
 
-## 🏫 Education
+## 🧠 Who Am I?
 
-🎓 **The George Washington University**  
-*Master of Science in Data Science (Aug 2023 - May 2025)*  
-- Specializations: NLP, Big Data Analytics, Machine Learning, Financial Analytics  
+> "In a world of noise, **I let data tell the truth.**"
 
-🎓 **Visvesvaraya Technological University**  
-*Bachelor of Engineering in Information Science & Engineering (Aug 2017 - Aug 2021)*  
+I'm a **Data Science Professional** passionate about **analytics-driven decision making**, **predictive intelligence**, and **scalable machine learning** systems.  
+My approach blends **technical rigor** with **business impact** — delivering solutions that are as insightful as they are actionable.
 
----
-
-## 🌟 About Me
-
-I'm a **Data Scientist and Business Intelligence Engineer** passionate about **unlocking insights from data** and driving **AI-powered business growth**.  
-- 🌱 **Current Focus**: NLP, CRM Analytics, Financial Time Series Forecasting  
-- 🎯 **Goal**: Build scalable AI systems and dynamic data pipelines  
-- 🧠 **Hobbies**: Dashboard storytelling, ML model tuning, and creative automations
+- 🎯 Specialties: Predictive Modeling, Sales Analytics, CRM Optimization, Data Engineering Pipelines
+- 🚀 Interests: AI-driven Business Intelligence, NLP in Customer Analytics, Financial Forecasting
 
 ---
 
-## 💼 Professional Experience
+## 💼 What I Do
 
-### **George Washington University**  
-*Business Intelligence Engineer (Sep 2023 - Present)*  
-- Validated multi-million record datasets using **Python** and **SQL**, enhancing data integrity by **20%**.  
-- Created **15+ dashboards** in Power BI and Business Objects to drive data-driven health strategies.  
-- Built predictive models for maternal health forecasting with **16% improved accuracy**.
-
-### **Ffreedom App**  
-*Data Analyst – Sales (May 2022 - Jul 2023)*  
-- Developed AI/ML models (**XGBoost**, **LSTM**, **BERT**) to optimize lead scoring, growing monthly revenue by **$100K**.  
-- Automated ETL pipelines using **AWS Glue** and **Snowflake**, achieving **30%** faster BI reporting.  
-- Integrated Salesforce analytics to increase campaign engagement by **20%**.
-
-### **Tequed Labs Pvt Ltd**  
-*Junior Data Scientist (Aug 2021 - Mar 2022)*  
-- Enhanced a real-time AI healthbot’s predictive power to **85%**+ using model tuning.  
-- Engineered scalable data pipelines via **Scala**, **AWS**, and **Kafka** for medical device sales analytics.
+| Domain | Skills | Achievements |
+|:-------|:-------|:-------------|
+| **Data Science & ML** | Python, R, TensorFlow, PyTorch, XGBoost | Boosted model accuracy by **16%+** |
+| **Business Intelligence** | Tableau, Power BI, SQL, Excel | Built **15+ live dashboards** |
+| **Sales Analytics** | Salesforce Data, CRM Modeling | Drove **$100K/month** revenue gains |
+| **Data Engineering** | AWS, Azure, Snowflake, Docker | Automated pipelines with **30% faster ETL** |
 
 ---
 
-## 🏆 Highlight Projects
+## 🔥 Featured Career Highlights
 
-### **CRM Sales Funnel Optimization**  
-- Built simulated Salesforce pipeline models to identify **12%** mid-funnel conversion gaps.
+✨ **Business Intelligence Engineer** — *George Washington University*  
+- Engineered predictive health models improving forecasting precision by **16%**.  
+- Automated anomaly detection across **12M+ records** using advanced SQL and Python pipelines.
 
-### **Territory Sales Trend & Forecasting**  
-- Forecasted regional sales with **92%** accuracy, boosting pipeline revenue by **$1.1M**.
+✨ **Data Analyst – Sales** — *Ffreedom App*  
+- Built lead scoring systems with **XGBoost** and **LSTM**, driving **$100K** monthly revenue uplift.  
+- Boosted marketing engagement by **20%** via CRM-integrated analytics dashboards.
 
-### **Discount Impact & Margin Optimization**  
-- Analyzed discounting strategies; recommended optimizations recovering **$480K** annually.
+✨ **Junior Data Scientist** — *Tequed Labs Pvt Ltd*  
+- Developed an NLP-powered chatbot achieving **85%** prediction accuracy.  
+- Designed high-throughput data pipelines with **Kafka** and **Scala**.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 Latest Projects
+
+- **CRM Sales Funnel Optimization**: Simulated Salesforce pipelines, closed **12% mid-funnel leakages**.
+- **Territory Revenue Forecasting**: Modeled sales trends with **92% forecast accuracy**.
+- **Discount Impact Analysis**: Recovered **$480K/year** optimizing discount strategies.
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,scala,aws,azure,snowflake,tensorflow,pytorch,postgres,mysql,git,docker,tableau,powerbi" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,r,scala,sql,tensorflow,pytorch,snowflake,aws,azure,docker,tableau,powerbi,git" alt="Skill Icons" />
 </p>
-
-### **Core Skills**:
-- **Programming**: Python, R, Scala, SQL
-- **AI/ML**: TensorFlow, PyTorch, XGBoost, NLP
-- **Data Engineering**: Spark, Snowflake, AWS Glue
-- **Visualization**: Tableau, Power BI, Excel, Google Analytics
-- **Cloud Services**: AWS, Azure
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 My GitHub Insights
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=shashankshivakumar09&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankshivakumar09&theme=tokyonight" alt="GitHub Streak" width="49%"/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=shashankshivakumar09&theme=onedark&no-frame=true&row=1&margin-w=30" alt="GitHub Trophies" />
-  
+<img src="https://github-readme-stats.vercel.app/api?username=shashankshivakumar09&show_icons=true&theme=react&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=shashankshivakumar09&theme=react&hide_border=true" width="49%" alt="GitHub Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=shashankshivakumar09&theme=onedark&row=1&margin-w=30&no-frame=true" alt="Trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankshivakumar09&bg_color=1a1b27&color=08E8DE&line=08E8DE&point=ffffff&hide_border=true" alt="Activity Graph" />
+
 </div>
 
 ---
 
-## 🚀 Let's Connect!
+## 🌟 Fun Stats (Auto-Updated)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shashankshivakumar09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+</p>
+
+---
+
+## 🤝 Let's Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/shashankshivakumar09" target="_blank">
@@ -106,21 +100,13 @@ I'm a **Data Scientist and Business Intelligence Engineer** passionate about **u
   <a href="https://github.com/shashankshivakumar09" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub Badge" />
   </a>
+  <a href="mailto:shashankshivakumar09@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email Badge" />
+  </a>
 </p>
 
 ---
 
-## 🎯 Collaboration Interests
-
-I'm open to collaborating on:  
-- 🔥 **AI/ML Products**  
-- 📊 **Business Intelligence Systems**  
-- 🌎 **Cloud-native Data Solutions**
-
-📧 **Reach out at**: [shashankshivakumar09@gmail.com](mailto:shashankshivakumar09@gmail.com)
-
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding GIF" width="50%" />
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="280" height="200" alt="Coding Fun Animation" />
 </p>
