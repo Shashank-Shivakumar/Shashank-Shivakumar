@@ -59,9 +59,7 @@ My approach blends **technical rigor** with **business impact** — delivering s
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,cs,java,html,css,js,react,scala,mysql,postgres,tensorflow,pytorch,aws,azure,gcp,docker,git,figma,redis,jenkins&theme=light" alt="Skill Set" />
-<!--       <img src="https://skillicons.dev/icons?i=python,r,cpp,cs,java,aws,gcp,azure,docker,kubernetes,tensorflow,pytorch,postgres,mysql,git,linux,figma" alt="Tech Stack" />
- -->
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb,sklearn,matlab,tensorflow,pytorch,selenium,aws,azure,gcp,docker,gitlab,figma,ai,java,html,css,js,react,scala,redis,jenkins&theme=light" alt="Skill Set" />
 </p>
 
 ---
