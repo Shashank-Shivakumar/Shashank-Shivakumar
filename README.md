@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=08E8DE&center=true&vCenter=true&repeat=true&width=900&lines=Hello%2C+I'm+Shashank+Shivakumar!;Data+Scientist+%7C+BI+Engineer+%7C+AI+Builder;Turning+Data+Into+Decisions+and+Growth." alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" width="280" height="200" alt="Working Animation" />
-</p>
-
 ---
 
 ## 🧠 Who Am I?
@@ -63,7 +59,9 @@ My approach blends **technical rigor** with **business impact** — delivering s
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,scala,sql,tensorflow,pytorch,snowflake,aws,azure,docker,tableau,powerbi,git" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=python,r,scala,mysql,tensorflow,pytorch,snowflake,aws,azure,docker,tableau,powerbi,git" alt="Skill Set" />
+<!--       <img src="https://skillicons.dev/icons?i=python,r,cpp,cs,java,aws,gcp,azure,docker,kubernetes,tensorflow,pytorch,postgres,mysql,git,linux,figma" alt="Tech Stack" />
+ -->
 </p>
 
 ---
@@ -72,12 +70,12 @@ My approach blends **technical rigor** with **business impact** — delivering s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shashankshivakumar09&show_icons=true&theme=react&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=shashankshivakumar09&theme=react&hide_border=true" width="49%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shashank-Shivakumar&show_icons=true&theme=react&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=Shashank-Shivakumar&theme=react&hide_border=true" width="49%" alt="GitHub Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=shashankshivakumar09&theme=onedark&row=1&margin-w=30&no-frame=true" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Shashank-Shivakumar&theme=onedark&row=1&margin-w=30&no-frame=true" alt="Trophies" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankshivakumar09&bg_color=1a1b27&color=08E8DE&line=08E8DE&point=ffffff&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank-Shivakumar&bg_color=1a1b27&color=08E8DE&line=08E8DE&point=ffffff&hide_border=true" alt="Activity Graph" />
 
 </div>
 
