@@ -38,7 +38,7 @@ My approach blends **technical rigor** with **business impact** — delivering s
 - Engineered predictive health models improving forecasting precision by **16%**.  
 - Automated anomaly detection across **12M+ records** using advanced SQL and Python pipelines.
 
-✨ **Data Analyst – Sales** — *Ffreedom App*  
+✨ **Data Analyst** — *Ffreedom App*  
 - Built lead scoring systems with **XGBoost** and **LSTM**, driving **$100K** monthly revenue uplift.  
 - Boosted marketing engagement by **20%** via CRM-integrated analytics dashboards.
 
