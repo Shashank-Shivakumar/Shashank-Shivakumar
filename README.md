@@ -71,8 +71,6 @@ My approach blends **technical rigor** with **business impact** — delivering s
 <img src="https://github-readme-stats.vercel.app/api?username=Shashank-Shivakumar&show_icons=true&theme=react&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=Shashank-Shivakumar&theme=react&hide_border=true" width="49%" alt="GitHub Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shashank-Shivakumar&theme=onedark&row=1&margin-w=30&no-frame=true" alt="Trophies" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank-Shivakumar&bg_color=1a1b27&color=08E8DE&line=08E8DE&point=ffffff&hide_border=true" alt="Activity Graph" />
 
 </div>
@@ -94,7 +92,3 @@ My approach blends **technical rigor** with **business impact** — delivering s
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="280" height="200" alt="Coding Fun Animation" />
-</p>
