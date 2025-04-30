@@ -79,14 +79,6 @@ My approach blends **technical rigor** with **business impact** — delivering s
 
 ---
 
-## 🌟 Fun Stats (Auto-Updated)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shashankshivakumar09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
-</p>
-
----
-
 ## 🤝 Let's Connect!
 
 <p align="center">
